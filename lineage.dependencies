@@ -1,0 +1,13 @@
+[
+  {
+    "repository": "device_google_pantah",
+    "target_path": "device/google/pantah",
+    "remote": "sigma-devices"
+  },
+  {
+    "repository": "vendor_google_panther",
+    "target_path": "vendor/google/panther",
+    "remote": "sigma-devices",
+    "branch": "sigma-14.3"
+  }
+]
